@@ -20,6 +20,7 @@
     "pin-code-input"
   ],
   "dependencies": {
+    "deprecated-react-native-prop-types": "^4.0.0",
     "lodash": "^4.17.4",
     "prop-types": "^15.5.10"
   },
